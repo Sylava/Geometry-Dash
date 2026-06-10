@@ -2,7 +2,7 @@
 - Télecharger et ouvrir le dossier release
 - Lancer le jeu avec "Dual Pulse.exe"
 
-## Contrôle de l'éditeur de level
+## Contrôles de l'éditeur de level
 - A = Spike
 - R = JumpBalls
 - C = Collision
@@ -15,7 +15,7 @@
 - S = Save
 - L = Load
 - Tab = Tileset
-- clique droit = retier élément 
+- clique droit = retirer élément 
 - clique gauche = placer élément
 - 1 = layer visuel fond
 - 2 = layer logique collision (spike, jumpball, portail, victoire)
@@ -23,10 +23,10 @@
 - 4 = layer logique collision
 
 ## Les formes du joueur 
-- CUBE: peux sauter 
+- CUBE: peut sauter 
 - SHIP: vol 
-- BALL: inverse la gravité (doit touché le sol ou le plafond)
-- WAVE: vol an diagonal 
+- BALL: inverse la gravité (doit toucher le sol ou le plafond)
+- WAVE: vole en diagonal 
 
 ## Développeurs :
 - ILAN
